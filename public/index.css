@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body {
+    background-color: teal;
+    font-family: "Roboto";
+    padding-top: 40px;
+}
+h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+input[type=text] {
+    margin: 0 auto;
+     display: block;
+    margin-top: 80px;
+}
+div#diva {
+    margin-top: 30px;
+    text-align: center;
+    display: block;
+}
+
+div#diva h2{
+    padding: 15px;
+    display: inline;
+   text-align: center;
+}
